@@ -4,7 +4,7 @@ Blog de prueba para aprender GIT
 > En este curso he aprendido cosas super interesantes
 > - Hola
 
-###Hasta ahora he aprendido
+### Hasta ahora he aprendido
 - Comandos de GIT
 - Flujo de trabajo en GITHUB
 - Amor por las buenas prácticas
