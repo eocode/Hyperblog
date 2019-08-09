@@ -12,5 +12,6 @@ Blog de prueba para aprender GIT
 * Las personalidades multiples de freddy
 * Creado
 * Está super bien explicado
+* Dispobible en platzi
 
 Este **README** es una recopilación del curso
