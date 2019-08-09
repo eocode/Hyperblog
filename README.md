@@ -10,6 +10,6 @@ Blog de prueba para aprender GIT
 * Amor por las buenas prácticas
 * Trucos locos del profesor
 * Las personalidades multiples de freddy
-* Creado
+* Creado en el curso de Git y Github de platzi
 
 Este **README** es una recopilación del curso
