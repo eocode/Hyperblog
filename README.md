@@ -11,5 +11,8 @@ Blog de prueba para aprender GIT
 * Trucos locos del profesor
 * Las personalidades multiples de freddy
 * Creado en el curso de Git y Github de platzi
+* Creado
+* Está super bien explicado
+* Dispobible en platzi
 
 Este **README** es una recopilación del curso
