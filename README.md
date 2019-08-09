@@ -11,5 +11,6 @@ Blog de prueba para aprender GIT
 * Trucos locos del profesor
 * Las personalidades multiples de freddy
 * Creado
+* Está super bien explicado
 
 Este **README** es una recopilación del curso
